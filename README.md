@@ -36,4 +36,5 @@ Root Mean Square Error for All Parameters: **27.347325362124234**
 ![image](https://user-images.githubusercontent.com/76088075/193458575-6b724f44-28c8-4b01-b556-563f080d10ab.png)
 
 ### All Paranmeters
-![image](https://user-images.githubusercontent.com/76088075/193458684-33ba0acc-3153-4c31-a927-87172bc870bf.png)
+![image](https://user-images.githubusercontent.com/76088075/193458954-c91955de-6cc9-4b43-977c-46deb4db0ff3.png)
+
