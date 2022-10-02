@@ -1,7 +1,7 @@
 # Multivariate-Time-series-Analysis-using-Ensemble Modeling
 Ensemble modeling is a process where multiple diverse models are created to predict an outcome, either by using many different modeling algorithms or using different training data sets. 
 
-We have used there modes
+Used three models
 1. XGBRegressor : XGBoost stands for "Extreme Gradient Boosting" and it is an implementation of gradient boosting trees algorithm.
 2. LightGBM Regressor : LightGBM is an open-source gradient boosting framework that based on tree learning algorithm and designed to process data faster and provide better accuracy.
 3. CatBoost Regressor: CATBOOST is an open-source machine learning library developed by a Russian search engine giant Yandex.
